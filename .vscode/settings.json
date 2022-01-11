@@ -1,5 +1,11 @@
 {
     "files.associations": {
-        "exception": "cpp"
+        "exception": "cpp",
+        "csignal": "cpp",
+        "cstddef": "cpp",
+        "ranges": "cpp",
+        "functional": "cpp",
+        "chrono": "cpp",
+        "string": "cpp"
     }
 }
